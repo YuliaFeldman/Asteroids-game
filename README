@@ -1,0 +1,20 @@
+Asteroids - an interactive graphic game, built using Python and various physical algorithms for calculation of acceleration and more.
+
+==================
+=  Description:  =
+==================
+
+An asteroids game that is made out of the following classes:
+1. ship class
+2. asteroids class
+3. torpedo class
+4. screen class
+5. game class
+
+In the game the player controls a space ship surrounded by asteroids.
+If the ship is hit by an asteroid it looses a life. If it is hit
+three times the game ends.
+The ship can shoot torpedos at the asteroids and damage them.
+The goal of the game is to hit all the asteroids on screen
+without getting hit by one.
+
